@@ -4,9 +4,9 @@ My name is Hanjia Zhang, from Chengdu city, SiChuan province of China, A provinc
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### MORE ABOUT ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Soccer, video games 
 
 ```markdown
 Syntax highlighted code block
