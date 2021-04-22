@@ -1,8 +1,9 @@
+
 ## Welcome to Hanjia's page
 
 My name is Hanjia Zhang, from Chengdu city, SiChuan province of China, A province of Panda's hometown. I've been Norman for study since 2016. It was not easy when i just arriveled here, because as a forienger and speaking english as second language, its pretty hard to communicate with others, and the culture as well. But Fortunately, everyone is friendly to me. At the same time, also i made friends with several native English speakers and they have helped me a lot.
 
-![Image of Yaktocat](C:\Users\Administrator\Desktop\mypho.jpg)
+![mypho](https://user-images.githubusercontent.com/70305197/115793604-08048a00-a392-11eb-8eef-d6fc53ab4bf6.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
