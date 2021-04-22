@@ -1,4 +1,4 @@
-﻿* {
+* {
     box-sizing: border-box;
 }
 body
@@ -61,7 +61,7 @@ h4{
 
     .box4:hover {
         background-color: purple;
-        zoom: 110%;
+        zoom: 102%;
         width: 25%;
         height: 500px;
     }
@@ -76,7 +76,7 @@ h4{
 
     .box5:hover {
         background-color: purple;
-        zoom: 110%;
+        zoom: 102%;
         width: 25%;
         height: 500px;
     }
@@ -96,7 +96,7 @@ h5 {
 
     .box6:hover {
         background-color: purple;
-        zoom: 110%;
+        zoom: 102%;
         width: 25%;
         height: 500px;
     }
@@ -111,7 +111,7 @@ h5 {
 
     .box7:hover {
         background-color: purple;
-        zoom: 110%;
+        zoom: 102%;
         width: 25%;
         height: 500px;
     }
